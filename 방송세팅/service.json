@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "bwtest": false,
+        "key": "yhn1777-1807422092",
+        "server": "rtmp://rtmpmanager-freecat.afreeca.tv/app",
+        "service": "AfreecaTV"
+    },
+    "type": "rtmp_common"
+}
